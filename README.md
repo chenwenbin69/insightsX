@@ -1,2 +1,2 @@
 # awesome-workspace
--art
+- art
